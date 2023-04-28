@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "std/": "https://deno.land/std@0.185.0/"
+  },
+  "tasks": {
+    "dev": "deno run --allow-net --allow-sys --watch ./src/start.ts"
+  },
+
+  "fmt": {
+    "files": {
+      "include": ["src/"],
+      "exclude": ["src/testdata/"]
+    },
+
+    "options": {
+      "useTabs": false,
+      "lineWidth": 100,
+      "indentWidth": 2,
+      "singleQuote": true,
+      "semiColons": false,
+      "proseWrap": "preserve"
+    }
+  }
+}

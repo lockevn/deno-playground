@@ -1,0 +1,39 @@
+{
+  "version": "2",
+  "remote": {
+    "https://cdn.skypack.dev/-/lodash-es@v4.17.21-rDGl8YjBUjcrrAbjNrmo/dist=es2019,mode=imports/optimized/lodash-es.js": "4a1b35d34b5e0d3ae68aa46ddaabb9700ccecb75b830974db7c46a271f10daa8",
+    "https://cdn.skypack.dev/-/lodash@v4.17.21-K6GEbP02mWFnLA45zAmi/dist=es2019,mode=imports/optimized/lodash.js": "10c4df47937ffc78548d136dd535a021df5f57182a653260d715c0690dd22978",
+    "https://cdn.skypack.dev/lodash": "8280de0b3efd87f06ea0eb330d15b8de32c059556023b8c6524e9eb9e4844dc0",
+    "https://cdn.skypack.dev/lodash-es@%5E4.17": "7dc1d11c01e46bf442774791267f7ca93f6cc204451ac648f2560b0cd6c91524",
+    "https://cdn.skypack.dev/lodash-es@%5E4.17.15": "7dc1d11c01e46bf442774791267f7ca93f6cc204451ac648f2560b0cd6c91524",
+    "https://unpkg.com/@types/lodash@4.14.135/common/array.d.ts": "24f73778cc712f3d2ff4b69227957577487118bd41652b63c5f913ba12f7631a",
+    "https://unpkg.com/@types/lodash@4.14.135/common/collection.d.ts": "1be7bfa036a1f7055eb9e2a28e88fd044ee43e5aa0f2bea4111b131d55d4e41f",
+    "https://unpkg.com/@types/lodash@4.14.135/common/common.d.ts": "826e226ef4293d2e692c796d7cc81c94f353c57fd6016685b79d68134e5df047",
+    "https://unpkg.com/@types/lodash@4.14.135/common/date.d.ts": "6e88e36ca6d6953fde31898701899e61239b22f09906d5970caac88107a4b01a",
+    "https://unpkg.com/@types/lodash@4.14.135/common/function.d.ts": "8d0b0656ffc2f973bdea853fc00a3f99122db54fd7a0e13bf87d6f358fbc3c6e",
+    "https://unpkg.com/@types/lodash@4.14.135/common/lang.d.ts": "213590e0f4f916d3be462f03cf3373ac760895f010cf2a08707931b0aaf35a6d",
+    "https://unpkg.com/@types/lodash@4.14.135/common/math.d.ts": "90e654b460f8ff7a3ff73ec54996290afebf00c8acc0fc634961af1509416db5",
+    "https://unpkg.com/@types/lodash@4.14.135/common/number.d.ts": "81fdef0cbc4aeed4e29f7ed43d7b768ebe39e068da55c95bd710f47be289d6ac",
+    "https://unpkg.com/@types/lodash@4.14.135/common/object.d.ts": "779787d1da79fd49efedeb56fa76cef6982b20baa13cca5801e8b9bad49c98a3",
+    "https://unpkg.com/@types/lodash@4.14.135/common/seq.d.ts": "e4db201366aed6e8ec28c4f9e998729477b0825ae7e517441e8000f192b8b033",
+    "https://unpkg.com/@types/lodash@4.14.135/common/string.d.ts": "20fb7144dd7a3e5007cc44e96c843879216fd082bf5761bd420715d645eb683e",
+    "https://unpkg.com/@types/lodash@4.14.135/common/util.d.ts": "026742bab94860543fde035a6bfd5d5103fab08afbdacf9a207a44b2bb6fccba",
+    "https://unpkg.com/@types/lodash@4.14.135/index.d.ts": "9ac87bab1ce323685aee73adffa80ea94d58b7a7ff423c24c15b1cd7bd332805"
+  },
+  "npm": {
+    "specifiers": {
+      "chalk@5": "chalk@5.2.0",
+      "lodash@4": "lodash@4.17.21"
+    },
+    "packages": {
+      "chalk@5.2.0": {
+        "integrity": "sha512-ree3Gqw/nazQAPuJJEy+avdl7QfZMcUvmHIKgEZkGL+xOBzRvup5Hxo6LHuMceSxOabuJLJm5Yp/92R9eMmMvA==",
+        "dependencies": {}
+      },
+      "lodash@4.17.21": {
+        "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==",
+        "dependencies": {}
+      }
+    }
+  }
+}
